@@ -1,0 +1,6 @@
+{
+  "name": "Forex AI MT5 Predictor",
+  "description": "AI-powered Forex market predictor combining real-time technical analysis with live news sentiment and ready-to-use MetaTrader 5 (MT5) Expert Advisor integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
